@@ -1,0 +1,15 @@
+.top {
+    display: flex;
+    justify-content: space-between; 
+}
+
+.mid{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.logincondition{
+    width: 400px;
+    text-align: center;
+}
